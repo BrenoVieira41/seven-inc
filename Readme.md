@@ -76,6 +76,8 @@ $ git clone https://github.com/Brenovieira41/seven-inc.git
   $ yarn dev # or npm run dev
 ```
 
+- :computer: Site web
+
 ```sh
   $ cd web
   # Dependencies install.
